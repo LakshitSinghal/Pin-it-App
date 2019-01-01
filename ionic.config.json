@@ -1,0 +1,13 @@
+{
+  "name": "pin-it",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/api.bigstockphoto.com/2/544044/categories",
+      "proxyUrl": "http://cors.api.com/api.bigstockphoto.com/2/544044/categories"
+    }
+  ],
+  "type": "ionic-angular"
+}
